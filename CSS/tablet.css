@@ -1,0 +1,15 @@
+.plans-container-card {
+  margin: 50px 20px;
+}
+.product-detail-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 830px;
+  margin: 0 auto;
+}
+.plans-cards-container {
+  justify-content: center;
+}
+.plans-cards-container::-webkit-scrollbar {
+  display: none;
+}
